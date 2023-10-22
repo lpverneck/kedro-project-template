@@ -1,4 +1,7 @@
-black~=22.0
+black==23.3.0
+isort==5.11.5
+flake8==5.0.4
+pre-commit==2.21.0
 ipython>=7.31.1, <8.0; python_version < '3.8'
 ipython~=8.10; python_version >= '3.8'
 jupyter~=1.0
